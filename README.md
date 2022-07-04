@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=#A9A9A9&height=250&section=header&text=Soonho%20Shin&fontSize=70)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=250&section=header&text=Soonho%20Shin&fontSize=70)
   # :computer:Back-End Developer:computer:
   
   
